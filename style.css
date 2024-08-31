@@ -1,0 +1,24 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/1327143345/vector/pakistan-independence-day-with-pakistan-circle-flag-and-flying-ribbon-design.jpg?s=612x612&w=0&k=20&c=zQTpUyrzls_HrYBoOeC-FJjgp2yWU2a0_cClWTZNnqU=');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.timer{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+}
+.container{
+    text-align: center;
+}
+.container p{
+    font-size: 60px;
+    margin-top: 0px;
+    color: white;
+}
